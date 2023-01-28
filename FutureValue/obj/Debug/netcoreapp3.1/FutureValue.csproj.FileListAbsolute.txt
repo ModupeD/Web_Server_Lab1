@@ -1,0 +1,318 @@
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csprojAssemblyReference.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.input.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.output.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorCoreGenerate.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.Views.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CopyComplete
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\staticwebassets\FutureValue.StaticWebAssets.Manifest.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\staticwebassets\FutureValue.StaticWebAssets.xml
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csprojAssemblyReference.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.input.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.output.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorCoreGenerate.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cs
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.Views.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CopyComplete
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\staticwebassets\FutureValue.StaticWebAssets.Manifest.cache
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\staticwebassets\FutureValue.StaticWebAssets.xml
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+C:\Users\danielia\Downloads\Murach1\Murach\aspnet_core_mvc\ex_solutions\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\libman.json
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.StaticWebAssets.xml
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.Views.pdb
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorAssemblyInfo.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\staticwebassets\FutureValue.StaticWebAssets.Manifest.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.input.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.TagHelpers.output.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorCoreGenerate.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.Views.pdb
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CopyComplete
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+\\Mac\Home\Downloads\Ch03Ex1FutureValue- Ibukun\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
